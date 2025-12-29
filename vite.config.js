@@ -1,6 +1,6 @@
 export default {
+  base: "test/",
   build: {
-    base: "test/",
     sourcemap: true,
   }
 }
